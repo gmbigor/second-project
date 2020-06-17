@@ -1,0 +1,43 @@
+h1 {
+    font-size: 24px;
+    text-transform: uppercase;
+    font-style: italic;
+    font-family: 'William', serif;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 34px;
+    font-weight: normal;
+    color: white;
+  }
+  h2 {
+    margin-top: 0;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 30px;
+    color: white;
+   }
+  h3 {
+    font-family: 'William', serif;
+    margin: 0;
+    font-size: 15px;
+    text-transform: uppercase;
+    line-height: 18px;
+    font-weight: normal;
+    color: white;
+    }
+  img {
+    margin-bottom: 30px;
+    width: 180px;
+  }
+  p {
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+  }
+  div {
+    background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    margin: auto;
+  }
